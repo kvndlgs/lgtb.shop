@@ -199,7 +199,7 @@ export default function Header() {
       
       </Link>
       <Link id="link" to="#"></Link>
-	  <Link id="link" to="https://teespring.com/stores/lgtb-official-merch"> MERCH </Link>
+	  <Link id="link" to="https://teespring.com/stores/lgtb-official-merch">  </Link>
       </Nav>
     </StyledHeader>
   )
