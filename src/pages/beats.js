@@ -24,7 +24,6 @@ export default function Beats(){
     return (
         <>
     <PlayerWrapper>
-    {/*
     <iframe 
     id="mfs_html5" 
     src="https://airbit.com/widgets/html5/?uid=468807&config=1090762" 
@@ -32,12 +31,7 @@ export default function Beats(){
     scrolling="no"
     title="shop" 
     />
-    */}
-    <iframe 
-     title="shop"
-     src="https://traktrain.com/widget/92856"  
-     frameborder="0"/>
     </PlayerWrapper>
-        </>
+</>
     )
 }

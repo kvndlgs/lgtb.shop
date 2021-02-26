@@ -4,6 +4,7 @@ module.exports = {
      description: "Quality Beats At Fair Prices.",
      siteUrl: 'https://lgtb.shop'
   },
+  flags: { PRESERVE_WEBPACK_CACHE: true },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
