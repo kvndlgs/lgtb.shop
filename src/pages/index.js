@@ -66,6 +66,7 @@ export function Wrapper({content, title}){
       <meta property="og:type" content="website" />
       <meta name="robots" content="index, no-follow" />
       <link rel="shortcut icon" href="/static/favicon.ico" />
+      <script src="https://airbit.com/js/embeds/html5/gatracking.js?gatracking=UA-167543913-1"></script>
       <title> LGTB Beat Shop </title>
     </Helmet>
 
