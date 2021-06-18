@@ -24,7 +24,7 @@ export default function Beats(){
     return (
         <>
     <PlayerWrapper>
-    <iframe src="https://player.beatstars.com/?storeId=122232" width="100%" height="800" style="max-width:1024px;"> -- none -- </iframe>
+    <iframe src="https://player.beatstars.com/?storeId=122232" width="100%" height="800" style="max-width:1024px;" />
     </PlayerWrapper>
 </>
     )
