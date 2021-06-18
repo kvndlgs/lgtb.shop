@@ -12,7 +12,7 @@ const PlayerWrapper = styled.div`
  iframe {
     width: 100%;
     height: auto;
-    max-height:850px;
+    max-height:900px;
     padding:40px;
     z-index:999;
  }
@@ -24,7 +24,7 @@ export default function Beats(){
     return (
         <>
     <PlayerWrapper>
-    <iframe src="https://player.beatstars.com/?storeId=122232" width="100%" height="800" style="max-width:1024px;" />
+    <iframe id="bs-player" src="https://player.beatstars.com/?storeId=122232" frameBorder="0" />
     </PlayerWrapper>
 </>
     )
